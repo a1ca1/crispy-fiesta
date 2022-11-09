@@ -32,9 +32,7 @@ What works:
     Apple Services (iCloud/iMessage/etc)
 
 
-Credits:
+Note:
+Release works with 11.7, OC version is 0.7.4
 
-   https://github.com/masbroo69/OpenCore-EFI-for-Gigabyte-B550I-Aorus-Pro-AX
-   https://dortania.github.io/
-    
-    
+EFI11_2022_86_bootsBS_noM.zip is in progress, boots Big Sur 11.7 normally, will not boot Monterey installer. OC version is 0.8.6
