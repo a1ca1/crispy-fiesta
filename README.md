@@ -4,7 +4,7 @@
 This repository provides the basic EFI folder to run macOS Big Sur Version 11.7 on the Gigabyte B550I Aorus Pro AX motherboard.
 
 
-Specification :
+Specs :
 - CPU: AMD Ryzen 5 3600x @ 3.8GHz
 - Motherboard: Gigabyte B550i Aorus Pro AX
 - RAM: 16GB (2 x 8GB) Crucial Ballistix @ 3200MHz
@@ -23,16 +23,16 @@ Specification :
 
 What works:
    
-    CPU Power Management
-    Shutdown, Restart and Sleep
-    Rear Jack and Front Jack Audio
-    LAN Ethernet
-    HDMI & Displayport on GPU
-    All USB Ports
-    Apple Services (iCloud/iMessage/etc)
+CPU Power Management
+Shutdown, Restart and Sleep
+Rear Jack and Front Jack Audio
+LAN Ethernet
+HDMI & Displayport on GPU
+All USB Ports
+Apple Services (iCloud/iMessage/etc)
 
 
 Note:
-Release works with 11.7, OC version is 0.7.4
+Release works with 11.7, OC version is 0.7.3
 
 EFI11_2022_86_bootsBS_noM.zip is in progress, boots Big Sur 11.7 normally, will not boot Monterey installer. OC version is 0.8.6
