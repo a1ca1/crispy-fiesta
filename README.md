@@ -1,7 +1,5 @@
-#OpenCore for Gigabyte B550I Aorus Pro AX
 
-
-This repository provides the basic EFI folder to run macOS Big Sur Version 11.7 on the Gigabyte B550I Aorus Pro AX motherboard.
+This repository provides the basic EFI folder to run macOS Monterey on the Gigabyte B550I Aorus Pro AX motherboard.
 
 
 Specs :
@@ -30,7 +28,3 @@ All USB Ports
 Apple Services (iCloud/iMessage/etc)
 
 
-Note:
-Release works with 11.7, OC version is 0.7.3
-
-EFI11_2022_86_bootsBS_noM.zip is in progress, boots Big Sur 11.7 normally, will not boot Monterey installer. OC version is 0.8.6
