@@ -3,6 +3,7 @@ Build & OpenCore details for dual boot hackintosh
 
 
 Specs :
+- Case:	Louqe Ghost S1 mk III
 - Motherboard: Gigabyte B550i Aorus Pro AX
 - CPU: AMD Ryzen 5 3600x @ 3.8GHz 
 - CPU Cooler: Noctua NH-L9a-AM4 chromax.Black
@@ -12,7 +13,6 @@ Specs :
 - Wireless Lan/Bluetooth: Intel® Wi-Fi 6 AX200
 - OS Storage: NVMe Inland Pro 512gb (macOS Monterey boot) + NVME Inland Pro 256gb (Windows 10 boot)
 - Bulk Storage: SATA Silicon Power SSD 512GB (formatted as exfat)
-- Case:	Louqe Ghost S1 mk III
 - PSU: Corsair SF750 80+ Platinum
 - OpenCore: 0.8.6
 - macOS: Monterey 12.6.1
