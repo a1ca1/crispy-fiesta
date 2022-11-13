@@ -10,7 +10,7 @@ Specs :
 - GPU: XFX Swft 210 Radeon 6600
 - Wired Lan: Intel® I225-V 2.5Gb Ethernet
 - Wireless Lan/Bluetooth: Intel® Wi-Fi 6 AX200
-- OS Storage: NVMe Inland Pro 512gb (macOS Monterey boot) + NVME Inland Pro 256gb (Windows 10 boot0
+- OS Storage: NVMe Inland Pro 512gb (macOS Monterey boot) + NVME Inland Pro 256gb (Windows 10 boot)
 - Bulk Storage: SATA Silicon Power SSD 512GB (formatted as exfat)
 - Case:	Louqe Ghost S1 mk III
 - PSU: Corsair SF750 80+ Platinum
