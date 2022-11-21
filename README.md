@@ -10,7 +10,7 @@ Specs :
 - RAM: 16GB (2 x 8GB) Crucial Ballistix @ 3200MHz
 - GPU: XFX Swft 210 Radeon 6600
 - Wired Lan: Intel® I225-V 2.5Gb Ethernet
-- Wireless Lan/Bluetooth: Intel® Wi-Fi 6 AX200
+- Wireless Lan/Bluetooth: BCM94360NG (replaced Intel Wifi AX200, https://www.amazon.com/dp/B0861T79QY?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - OS Storage: NVMe Inland Pro 512gb (macOS Monterey boot) + NVME Inland Pro 256gb (Windows 10 boot)
 - Bulk Storage: SATA Silicon Power SSD 512GB (formatted as exfat)
 - PSU: Corsair SF750 80+ Platinum
