@@ -1,3 +1,4 @@
+RETIRED AS OF 11/2023
 
 Build & OpenCore details for dual boot hackintosh
 
